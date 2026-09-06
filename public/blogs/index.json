@@ -1,5 +1,17 @@
 [
   {
+    "slug": "linkmind",
+    "title": "今天做一个小品级项目",
+    "tags": [
+      "产品"
+    ],
+    "date": "2026-09-06T22:34",
+    "summary": "做一款盈利的产品",
+    "cover": "/blogs/linkmind/53e05c72a889aee3.webp",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "ai-canvas-game",
     "title": "AI 画布与游戏",
     "tags": [
